@@ -56,4 +56,3 @@ if __name__ == "__main__":
     plt.ylabel('Gravity')
     plt.title('Performance selon gravity et masspole pour agent safe')
     plt.show()
-    
